@@ -1,2 +1,2 @@
 # exam_python
-slut uppgift till systemutveckling i python
+slutuppgift till systemutveckling i python
